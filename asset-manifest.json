@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/flower-field/static/css/main.16c73268.css",
+    "main.js": "/flower-field/static/js/main.27ccd893.js",
+    "index.html": "/flower-field/index.html",
+    "main.16c73268.css.map": "/flower-field/static/css/main.16c73268.css.map",
+    "main.27ccd893.js.map": "/flower-field/static/js/main.27ccd893.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16c73268.css",
+    "static/js/main.27ccd893.js"
+  ]
+}
