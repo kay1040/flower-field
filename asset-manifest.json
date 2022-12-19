@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/flower-field/static/css/main.d3c6ec3d.css",
-    "main.js": "/flower-field/static/js/main.afd64f23.js",
+    "main.js": "/flower-field/static/js/main.98054c63.js",
     "index.html": "/flower-field/index.html",
     "main.d3c6ec3d.css.map": "/flower-field/static/css/main.d3c6ec3d.css.map",
-    "main.afd64f23.js.map": "/flower-field/static/js/main.afd64f23.js.map"
+    "main.98054c63.js.map": "/flower-field/static/js/main.98054c63.js.map"
   },
   "entrypoints": [
     "static/css/main.d3c6ec3d.css",
-    "static/js/main.afd64f23.js"
+    "static/js/main.98054c63.js"
   ]
 }
